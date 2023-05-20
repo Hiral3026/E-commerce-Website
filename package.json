@@ -1,0 +1,26 @@
+{
+  "name": "lab-2",
+  "version": "1.0.0",
+  "description": "E-commerce Website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hiral3026/E-commerce-Website.git"
+  },
+  "author": "Hiral Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hiral3026/E-commerce-Website/issues"
+  },
+  "homepage": "https://github.com/Hiral3026/E-commerce-Website#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
